@@ -22,7 +22,7 @@ it starts operations to merge the subarrays back together, but because the mergi
 
 Sources:
 Lecture notes
-ChatGPT to understand why the worst case is not O(n log n)
+ChatGPT to understand why the worst case is not O(n log n) (Was used to understand why the worst case in not O(n log n) because I was really stuck so I was trying to find something to identify and build off of. ChatGPT actually reassured me that it was O(n log n) which I knew was wrong thanks to the professor. I then compared my reasoning with the results of ChatGPT, there were contradictions which I then built on and eventually got to log(n^2 log n). I can include my reasoning of how I got here if you want, I thought it was unesscary due to the process of comparing with ChatGPT. So all the reasoning is of my own work, just influenced by ChatGPT and made me see where I was going wrong on accident.)
 
 # Plagarism Statement
 All exercises must contain the following statement: “I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
